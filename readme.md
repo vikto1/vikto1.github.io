@@ -22,9 +22,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 600x400px, tamaño fijo.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Google Chrome y móvil android.
 
 **Tamaño proyecto:** 14MB 
 
@@ -47,8 +47,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+ El proyecto comienza con una breve introducción sobre mi y el proyecto. En este hay dos apartados esenciales: tradicional y digital. En ambos se puede ir al portfolio del apartado elegido o a una demostración del proceso con tiempo adelantado. También en el mismo inicio se encuentra un minijuego llamado galleta de la suerte, una serie de preguntas a modo quizz sobre este mismo proyecto.
 
 
 ### 2.2. Esquema de navegación 
@@ -86,7 +85,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a principalmente a clientes y cualquier usuario. 
 
 
 
@@ -128,14 +127,16 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Lakey Inspided/SoundCloud
+* Imágenes: Png, originales
+* Tipografía: Balsamiq Sans y Flower Market
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Premiere cs6
+- Avidemux
+- Audacity
 
 
 
@@ -143,4 +144,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2020

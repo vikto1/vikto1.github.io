@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Portfolio Interactivo: v3rsus
 
-**Web:**   (url github.io)
+**Web:**   vikto1.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Viktorija Siusyte
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto trata de una presentación de mi trabajo en una versión de portfolio interactivo. En este hay dos apartados esenciales: tradicional y digital. En ambos se puede ir al portfolio del apartado elegido o a una demostración del proceso con tiempo adelantado. También en el mismo inicio se encuentra un minijuego llamado galleta de la suerte, una serie de preguntas a modo quizz sobre este mismo proyecto.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -30,13 +30,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 14/06/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**
 
-- Github:
-- Twitter
-- Instagram
+- Github: vikto1.github.io
+
+- Instagram: @v3rsus__
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)

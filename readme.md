@@ -18,9 +18,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Portfolio.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** :
+![logo](https://github.com/vikto1/vikto1.github.io/blob/master/logogithub.jpg)
+Este logo es un autorretrato cartoonizado, utilizado en mis redes sociales como imágen de perfil.
 
 **Resolución:** 600x400px, tamaño fijo.
 
@@ -38,8 +38,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Instagram: @v3rsus__
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -79,7 +77,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto fue la oportunidad perfecta para investigar en una creación de portfolio dirigida tanto a clientes como a cualquier usuario de internet como entretenimiento. En el quise mostrar mis trabajos más fuertes y procesos para mantener la atención del espectador en la técnica detrás de los trabajos.
 
 
 
@@ -93,25 +91,25 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
+- Juego. Se ha integrado un minijuego a modo de quizz en el menú del proyecto. En él se sortean preguntasa aleatorias sobre el proyecto.
+- Video. Respecto a vídeo he insertado un total de dos, uno para el apartado de portfolio digital y otro para el tradicional. En estos se puede ver el proceso y las técnicas empleadas para los trabajos.
+- Instrucciones y ayuda al usuario. En la introducción aparece mi rostro cartoonizado explicando el proyecto y reaparece tanto en el portfolio digital como en el tradicional para indicar el modo de navegación en estos.
+- Menús y elementos de navegación (botones): Existen en este proyecto un menú principal (portfolio digital, portfolio tradicional, juegar a la galleta de la fortuna), y dos menús secundarios iguales en el portfolio digital y tradicional respecto a intención de redirección (porfolio y speedpainting). Se puede avanzar las explicaciones mediante botones de skip y volver al menú principal con el botón de exit.
 - etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Mientras investigaba el motivo de los problemas a la hora de exportación en html con la ayuda del profesor avanzaba creando el proyecto, llegando el punto de tenerlo terminado y no haber visto el resultado progresivo ni la oportunidad de arreglar errores poco a poco. El principal error encontrado fue la creación de texto con tecto normal en lugar de con cuadros de texto, lo que provocó el descuadre total de la animación con el mismo al cambiar la tipografía.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+A pesar de los fallos tan evidentes en la programación del proyecto debo decir que estoy orgullosa del trabajo hecho, principalente por mi dificultad manejando software, nunca pensé que podría hacer algo así. Por otro lado desearía poder arreglado los errores de desencuadre de texto y un error aun sin identificar en el contador de aciertos y fallos en el minijuego (el contador va: 1er acierto / fallo: 0, 2º acierto /fallo: 1; es decir, el contador va a trasado en uno).
+
 
 
 

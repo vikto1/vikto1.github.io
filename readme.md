@@ -36,9 +36,9 @@ Este logo es un autorretrato cartoonizado, utilizado en mis redes sociales como 
 
 **Medios**
 
-- Github: ![vikto1.github.io](https://vikto1.github.io/)
+- Github: [vikto1.github.io](https://vikto1.github.io/)
 
-- Instagram: ![@v3rsus__](https://www.instagram.com/v3rsus__/)
+- Instagram: [@v3rsus__](https://www.instagram.com/v3rsus__/)
 
 
 # 2. Memoria del proyecto 
@@ -69,7 +69,7 @@ Este logo es un autorretrato cartoonizado, utilizado en mis redes sociales como 
 **Investigación de campo** 
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- Página oficial de Loish ![loish](https://loish.net/)
+- Página oficial de [loish](https://loish.net/)
 
 
 
@@ -136,7 +136,7 @@ A pesar de los fallos tan evidentes en la programación del proyecto debo decir 
 
 
 
-
+![cc](https://github.com/vikto1/vikto1.github.io/blob/master/creativec.jpg)
 
 https://creativecommons.org/licenses/?lang=es
 

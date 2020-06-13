@@ -36,9 +36,9 @@ Este logo es un autorretrato cartoonizado, utilizado en mis redes sociales como 
 
 **Medios**
 
-- Github: vikto1.github.io
+- Github: ![vikto1.github.io](https://vikto1.github.io/)
 
-- Instagram: @v3rsus__
+- Instagram: ![@v3rsus__](https://www.instagram.com/v3rsus__/)
 
 
 # 2. Memoria del proyecto 

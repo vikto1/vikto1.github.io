@@ -20,6 +20,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** :
 ![logo](https://github.com/vikto1/vikto1.github.io/blob/master/logogithub.jpg)
+
+
 Este logo es un autorretrato cartoonizado, utilizado en mis redes sociales como imágen de perfil.
 
 **Resolución:** 600x400px, tamaño fijo.
@@ -52,26 +54,22 @@ Este logo es un autorretrato cartoonizado, utilizado en mis redes sociales como 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![](https://github.com/vikto1/vikto1.github.io/blob/master/captura%2013.png)
 
 
 
 
 
 
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Página oficial de Loish ![loish](https://loish.net/)
 
 
 
@@ -138,7 +136,7 @@ A pesar de los fallos tan evidentes en la programación del proyecto debo decir 
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 
 https://creativecommons.org/licenses/?lang=es
 
